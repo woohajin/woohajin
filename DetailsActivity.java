@@ -1,5 +1,3 @@
-//DetailsActivity
-
 
 import android.app.Activity;
 import android.content.res.Configuration;
